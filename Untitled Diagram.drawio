@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T21:24:53.030Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271" etag="aRXSBr42On_7-gm13qWD" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T22:16:46.800Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271" etag="beMhNW7u5SK96Bm-sS7u" version="13.8.0" type="github">
   <diagram id="jG0VTME0hswcPPIwx61V" name="Page-1">
-    <mxGraphModel dx="2010" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,12 +27,6 @@
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-4" value="BANDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-5" value="INSTRUMENTOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-6" value="MEMBROS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-13" target="5EQlFrpoV5EAcnf9eMvZ-84">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +79,15 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-21" target="5EQlFrpoV5EAcnf9eMvZ-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-21" target="5EQlFrpoV5EAcnf9eMvZ-247">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="450" />
+              <mxPoint x="550" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-21" value="ALBUM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -100,6 +103,9 @@
               <mxPoint x="470" y="930" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-23" target="5EQlFrpoV5EAcnf9eMvZ-194">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-23" value="&lt;font style=&quot;font-size: 9px&quot;&gt;É COMPOSTO&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="430" y="981.5" width="80" height="50" as="geometry" />
@@ -175,7 +181,7 @@
             <mxPoint x="500" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-34" value="&lt;font style=&quot;font-size: 9px&quot;&gt;LANĆAM&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-34" value="&lt;font style=&quot;font-size: 9px&quot;&gt;LANĆA&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="460" y="310" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-37" target="5EQlFrpoV5EAcnf9eMvZ-4">
@@ -201,9 +207,6 @@
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-41" value="Funćão" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="50" y="175" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-45" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="890" y="100" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-47">
           <mxGeometry relative="1" as="geometry">
@@ -232,12 +235,12 @@
           <mxGeometry x="610" y="232.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-63" value="A escolha da utilizaćão de um ID como chave primária no caso de música vem da possibilidade de haver mais de uma versão da mesma música, assim garante-se a possibilidade de de haver mais de uma música com os mesmos compositores e uma versão diferente. Exemplo de ocorrência disso é com a música Flor da pele que possui mais de uma letra&amp;nbsp; e é composta e cantada por Chico Buarque e Milton Nascimento" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1110" width="200" height="200" as="geometry" />
+          <mxGeometry x="350" y="1280" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-67" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;ARTISTA&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;Nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Nome artistico&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;tempo de carreira&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;tempo na banda atual (inicio-&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;tempo em bandas anterios (inicio- final)&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;funćão na banda&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Categorias (compositor interprete ou músico)&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;instrumento (qual tipo e data)&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;BANDAS&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;formaćão atual&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;formaćões anteriores&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Albuns&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;ALBUNS&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;Gravadora&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;ano&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;li&gt;musicas (por meio da busca nos CDs)&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;CD&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;Estão sempre associados aos albuns&lt;/li&gt;&lt;li&gt;Número de CDs&lt;/li&gt;&lt;li&gt;Faixas&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;DVD SHOW&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;Titulo&lt;/li&gt;&lt;li&gt;local&lt;/li&gt;&lt;li&gt;nome da turne&lt;/li&gt;&lt;li&gt;ano&lt;/li&gt;&lt;li&gt;sequencia de musicas&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;DVD CLIPES&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;nome das musicas&amp;nbsp;&lt;/li&gt;&lt;li&gt;Titulo&lt;/li&gt;&lt;li&gt;diretor de cada clipe&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#D79B00;fillColor=#FFFF66;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="175" width="765" height="765" as="geometry" />
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-67" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ARTISTA&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Nome artistico&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;tempo de carreira&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;tempo na banda atual (inicio-&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;tempo em bandas anterios (inicio- final)&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;funćão na banda&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Categorias (compositor interprete ou músico)&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;instrumento (qual tipo e data)&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;BANDAS&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;formaćão atual&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;formaćões anteriores&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Albuns&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ALBUNS&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Gravadora&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;nome&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ano&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;musicas (por meio da busca nos CDs)&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;CD&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Estão sempre associados aos albuns&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Número de CDs&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Faixas&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Tempo de duraćão&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;DVD SHOW&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Titulo&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;local&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;nome da turne&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ano&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;sequencia de musicas&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;DVD CLIPES&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;nome das musicas&amp;nbsp;&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Titulo&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;diretor de cada clipe&lt;b style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;✓&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;USUARIOS&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;username&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;senha&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;email&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#222222&quot; face=&quot;arial, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;playlists&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#D79B00;fillColor=#FFFF66;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="80" width="740" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-68" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-68" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="177.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-3" target="5EQlFrpoV5EAcnf9eMvZ-73">
@@ -371,13 +374,20 @@
           <mxGeometry x="599.75" y="530" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-133" value="A escolha da utilizaćão de um ID como chave primária no caso do album vem da possibilidade de haver mais de um album da mesma ou de artistas e bandas diferentes. Assim garante-se a possibilidade de de haver mais de um album do com o mesmo nome independente da origem. Optei por utilizar assim pois facilita a relaćão entre albuns, bandas e artistas, pois centraliza os tres cada um em seu BD, ao invés de obrigrar a criaćão de tabelas diferentes" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="340" width="200" height="200" as="geometry" />
+          <mxGeometry x="700" y="430" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-134" target="5EQlFrpoV5EAcnf9eMvZ-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-134" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-135" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="205" width="40" height="20" as="geometry" />
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-135" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="207" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-136">
           <mxGeometry relative="1" as="geometry">
@@ -396,8 +406,8 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-136" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="625" y="650" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-139" value="A escolha da utilizaćão de um ID como chave primária no caso da banda vem da possibilidade de haver mais de uma banda com mesmo nome, como ocorre. Também para cada formaćão da banda considerei que como uma nova entrada no BD, assim&amp;nbsp; para pesquisa de formaćões anteriores estabelece-se uma auto relaćão no BD de 1 para muitos. Estabeleci isso pensando na&amp;nbsp; Banda Aborto Elétrico que depois sucedeu-se para Legião Urbana." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="591.75" y="-90" width="200" height="200" as="geometry" />
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-139" value="A escolha da utilizaćão de um ID como chave primária no caso da banda vem da possibilidade de haver mais de uma banda com mesmo nome com a Banda de Rock americanda Kiss e o grupo de Kpop sul coreanos Kiss, como ocorre. Também para cada formaćão da banda considerei que como uma nova entrada no BD, assim&amp;nbsp; para pesquisa de formaćões anteriores estabelece-se uma auto relaćão no BD de 1 para muitos. Estabeleci isso pensando na&amp;nbsp; Banda Aborto Elétrico que depois sucedeu-se para Legião Urbana." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591.75" y="-130" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-140" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="40" height="20" as="geometry" />
@@ -434,6 +444,15 @@
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="5EQlFrpoV5EAcnf9eMvZ-152" source="5EQlFrpoV5EAcnf9eMvZ-22" target="5EQlFrpoV5EAcnf9eMvZ-60">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-211" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-152">
+          <mxGeometry x="10" y="10.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-212" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-152">
+          <mxGeometry x="40" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-213" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-152">
+          <mxGeometry x="80" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-153" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-160" y="786.5" width="380" height="195" as="geometry" />
@@ -531,7 +550,7 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-167" target="5EQlFrpoV5EAcnf9eMvZ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-167" value="FAIXAS" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-167" value="&lt;u&gt;FAIXAS&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="986.5" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-168">
@@ -542,7 +561,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-168" value="NUMERO&lt;br&gt;CD" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-168" value="&lt;u&gt;NUMERO&lt;br&gt;CD&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="860" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-171">
@@ -557,13 +576,29 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-171" value="&lt;font style=&quot;font-size: 9px&quot;&gt;É COMPOSTO&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="520" y="1040" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-175" target="5EQlFrpoV5EAcnf9eMvZ-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="840" />
+              <mxPoint x="735" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-175" target="5EQlFrpoV5EAcnf9eMvZ-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="820" />
+              <mxPoint x="852" y="873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-175" value="DVD CLIPE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-177" value="&lt;font style=&quot;font-size: 11px&quot;&gt;TIPO DE MIDIA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="600" y="567" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-184" value="TÍTULO" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-184" value="TÍTULO*" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="850" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-185" value="LOCAL" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
@@ -574,6 +609,167 @@
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-187" value="ANO" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="574.75" y="977.5" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-192" target="5EQlFrpoV5EAcnf9eMvZ-171">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="624" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-192" value="&lt;u&gt;SEQUÊNCIA&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="582.5" y="1070" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-194" value="TEMPO DE DURAĆÃO" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1030.5" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-196" target="5EQlFrpoV5EAcnf9eMvZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="1140" />
+              <mxPoint x="540" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-196" value="&lt;font style=&quot;font-size: 9px&quot;&gt;É COMPOSTO&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1065" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-199" value="TÍTULO*" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="750" y="853" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-201" target="5EQlFrpoV5EAcnf9eMvZ-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1072" />
+              <mxPoint x="790" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-201" value="DIRETOR DO CLIPE" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1031.5" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-203" value="Intrepretaćão do enunciado: seguindo a lógida do enunciado, interpretei como sendo os DVDs também pertencentes a um album, supondo que todo SHOW ou Coletânea de Clipes é um album &quot;personalizado&quot; feito pela banda ou pelo idealizador do evento. Cito como exemplo o caso do Live Concert do Queen que considerado um album e, inclusive, teve reprodućões em LP. Também foi intrepretaćão, pelo que se infere no primeiro parágrafo, que os DVDs também foram digitalizados. Logo, por mais que não possua especificaćão no resto do Enunciado, eu fiz considerando que os DVDs, assim como os CDs, arquivos das músicas em album&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="826.5" width="243.5" height="243.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1270" />
+              <mxPoint x="465" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-204" value="&lt;font style=&quot;font-size: 9px&quot;&gt;É VERSÃO DE&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1217" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="5EQlFrpoV5EAcnf9eMvZ-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1217" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-207" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1217" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-208" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1247" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-216" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574.75" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-217" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-218" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-22" target="5EQlFrpoV5EAcnf9eMvZ-225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="1240" />
+              <mxPoint x="590" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-221" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 60px&quot;&gt;⊂&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="705" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-223" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 60px&quot;&gt;⊂&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="623" y="706" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-224" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 60px&quot;&gt;⊂&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="799" y="703" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-225" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ARQUIVO DE AUDIO&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="614.75" y="1310" width="82.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-227" value="Não foi possível exitar este ciclo no BD, necessitando ser tratado em aplicaćão" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="275" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-229" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="458.88" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-230" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="458.88" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-239">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-239" target="5EQlFrpoV5EAcnf9eMvZ-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-239" value="&lt;font size=&quot;1&quot;&gt;POSSUI&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="960" y="97" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-241" target="5EQlFrpoV5EAcnf9eMvZ-247">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-241" value="PLAYLIST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="102.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-247" value="&lt;font size=&quot;1&quot;&gt;CONTÉM&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3FF66;" vertex="1" parent="1">
+          <mxGeometry x="663" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="96.5" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-249" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1100" y="91.25" width="236.5" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-231" value="USUÁRIOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-249">
+          <mxGeometry y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="5EQlFrpoV5EAcnf9eMvZ-249" source="5EQlFrpoV5EAcnf9eMvZ-232" target="5EQlFrpoV5EAcnf9eMvZ-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-232" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;u&gt;USERNAME&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-249">
+          <mxGeometry x="166.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="5EQlFrpoV5EAcnf9eMvZ-249" source="5EQlFrpoV5EAcnf9eMvZ-233" target="5EQlFrpoV5EAcnf9eMvZ-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-233" value="&lt;span style=&quot;font-size: 11px&quot;&gt;SENHA&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-249">
+          <mxGeometry x="166.5" y="40" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="5EQlFrpoV5EAcnf9eMvZ-249" source="5EQlFrpoV5EAcnf9eMvZ-234" target="5EQlFrpoV5EAcnf9eMvZ-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-234" value="&lt;span style=&quot;font-size: 11px&quot;&gt;EMAIL&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="5EQlFrpoV5EAcnf9eMvZ-249">
+          <mxGeometry x="166.5" y="78.75" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-252" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-255" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="102.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
