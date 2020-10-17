@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-17T01:02:38.169Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271" etag="av0k-98um7l9nfuAJSlw" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-17T01:41:16.485Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271" etag="57cDgcSCThctYPZaCCsc" version="13.8.0" type="github">
   <diagram id="jG0VTME0hswcPPIwx61V" name="Page-1">
-    <mxGraphModel dx="2010" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1655" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,9 +267,6 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5EQlFrpoV5EAcnf9eMvZ-3" target="5EQlFrpoV5EAcnf9eMvZ-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-83" value="A escolha do ID como chave primária nesse caso se deve a possibilidade de haver mais de um artista com o mesmo nome, o que não é garantido no enunciado essa unicidade" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="420" width="140" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-84" value="dia" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="-40" y="22.5" width="70" height="35" as="geometry" />
         </mxCell>
@@ -394,7 +391,7 @@
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-127" value="ANO" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="599.75" y="530" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-133" value="A escolha da utilizaćão de um ID como chave primária no caso do album vem da possibilidade de haver mais de um album da mesma ou de artistas e bandas diferentes. Assim garante-se a possibilidade de de haver mais de um album do com o mesmo nome independente da origem. Optei por utilizar assim pois facilita a relaćão entre albuns, bandas e artistas, pois centraliza os tres cada um em seu BD, ao invés de obrigrar a criaćão de tabelas diferentes. Também, o motivo de ter se mantido o Album como uma entidade forte ao invés de fraca deve-se a relacão dessa entidade com várias outras, facilitando a" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-133" value="A escolha da utilizaćão de um ID como chave primária no caso do album vem da possibilidade de haver mais de um album de artistas e bandas diferentes. Assim garante-se a possibilidade de de haver mais de um album do com o mesmo nome independente da origem. Optei por utilizar assim pois facilita a relaćão entre albuns, bandas e artistas, pois centraliza os tres cada um em um mesmo BD, ao invés de obrigrar a criaćão de tabelas diferentes. Também, o motivo de ter se mantido o Album como uma entidade forte ao invés de fraca deve-se a relacão dessa entidade com várias outras, como banda, artista e suas especializaćões" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="697.25" y="380" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-134" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -870,6 +867,9 @@
         </mxCell>
         <mxCell id="5EQlFrpoV5EAcnf9eMvZ-305" value="&lt;span style=&quot;font-size: 11px&quot;&gt;TIPO DE EVENTO&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="829" y="628.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5EQlFrpoV5EAcnf9eMvZ-310" value="A escolha do ID como chave primária nesse caso se deve a possibilidade de haver mais de um artista com o mesmo nome, o que não é garantido no enunciado essa unicidade" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF66;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-107" y="425" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
